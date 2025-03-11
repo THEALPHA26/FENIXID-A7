@@ -8,7 +8,7 @@ module.exports = {
     whiteList: process.env.WHITE_LIST ? process.env.WHITE_LIST.split(',') : [],
 
     fenixaboutype: process.env.FENIX_ABOUT_TYPE || 'Programming',
-    ownerNumber: process.env.OWNER_NUMBER || '94773010580',
+    ownerNumber: process.env.OWNER_NUMBER || '50943782043',
     userTimezone: process.env.USER_TIMEZONE || 'Asia/Colombo',
     FenixName: process.env.FENIX_NAME || 'Unknown Friend',
 
@@ -25,7 +25,7 @@ module.exports = {
 
     // Bot details
     botDetails: {
-        botName: process.env.BOT_NAME || 'FENX ID OWNER',
+        botName: process.env.BOT_NAME || 'DJSOLOHAITI,
         botAge: process.env.BOT_AGE || '26',
         botLocation: process.env.BOT_LOCATION || 'SRILANKA',
         botEmail: process.env.BOT_EMAIL || 'privateloginemails@gmail.com',
